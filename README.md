@@ -1,4 +1,6 @@
 # streaming-03-rabbitmq
+## Laura Gagnon-Vos
+#### 05/17/2024
 
 > Get started with RabbitMQ, a message broker, that enables multiple processes to communicate reliably through an intermediary.
 
@@ -161,6 +163,10 @@ Each of the version 2 programs include an error as well.
 1. How many hits did you get? 
 1. Learn and understand this common Python idiom.
 
+# Screenshot
+![Screenshot showing both emitting and listening terminals](./images/Laura_Screenshot.png)
+
+
 ## Reference
 
 - [RabbitMQ Tutorial - Hello, World!](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
@@ -169,3 +175,4 @@ Each of the version 2 programs include an error as well.
 - [What is RabbitMQ? IBM Intro Video 10 min](https://www.youtube.com/watch?v=7rkeORD4jSw)
 
 ![Exploring the local virtual environment folder](./images/exploring_dot_venv.PNG)
+

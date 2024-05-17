@@ -1,0 +1,12 @@
+2024-05-17 00:31:59,478.v2_listen_for_messages.INFO ==================================================
+2024-05-17 00:31:59,479.v2_listen_for_messages.INFO Today is 2024-05-17 at 12:31 AM
+2024-05-17 00:31:59,479.v2_listen_for_messages.INFO Running on: nt Windows 11
+2024-05-17 00:31:59,479.v2_listen_for_messages.INFO Python version:  3.12.2
+2024-05-17 00:31:59,480.v2_listen_for_messages.INFO Python path: C:\Users\laura\Documents\streaming-03-rabbitmq\.venv
+2024-05-17 00:31:59,480.v2_listen_for_messages.INFO Working dir: C:\Users\laura\Documents\streaming-03-rabbitmq
+2024-05-17 00:31:59,486.v2_listen_for_messages.INFO ==================================================
+2024-05-17 00:31:59,497.v2_listen_for_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
+2024-05-17 00:32:58,955.v2_listen_for_messages.INFO Received: Hello World!
+2024-05-17 00:33:15,909.v2_listen_for_messages.INFO Received: Hi
+2024-05-17 00:42:29,610.v2_listen_for_messages.WARNING User interrupted the listening process.
+2024-05-17 00:42:29,611.v2_listen_for_messages.INFO Closing connection. Goodbye.
